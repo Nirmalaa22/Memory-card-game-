@@ -1,6 +1,6 @@
 # Memory-card-game-
 Memory card game to sharpen the mind using CSS, HTML and javascript 
-#output
+# output
 ![img-1](https://github.com/Nirmalaa22/Memory-card-game-/assets/164146437/3733bc72-70dd-4090-9c33-609632bbbb26)
 ![img-2](https://github.com/Nirmalaa22/Memory-card-game-/assets/164146437/8b9b5910-a63c-40ab-b18d-d23f5be585ce)
 ![img-3](https://github.com/Nirmalaa22/Memory-card-game-/assets/164146437/729de9c5-7f66-4ba8-ab6d-b427c3eff842)
